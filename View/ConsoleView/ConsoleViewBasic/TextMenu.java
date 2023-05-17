@@ -71,6 +71,6 @@ public class TextMenu {
     public String thereIsNoStuff = "Недостаточное колличество:\n";
     public String thereIsNoAward = "В списке нет призов для розыгрыша\n";
     public String loserText = "Увы приз остается у нас\n";
-    public String winText = "Вы выйграли\n";
+    public String winText = "Вы выиграли\n";
     public String success = "Действие успешно выполнено";
 }
